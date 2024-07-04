@@ -17,7 +17,6 @@ Para comenzar, clona el repositorio y luego instala las dependencias con:
 ```bash
 git clone https://github.com/GerardoTurin/pruebaTecnica_S-S.git
 
-cd pruebaTecnica_S-S
 
 npm install
 
