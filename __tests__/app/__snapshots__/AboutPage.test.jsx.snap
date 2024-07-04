@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AboutPage Hacemos una prueba de snapshot 1`] = `
+<DocumentFragment>
+  <main
+    class="about"
+  >
+    <h2
+      class="title"
+    >
+      About Me
+    </h2>
+    <section
+      class="hero"
+    >
+      <img
+        alt="Usuario"
+        class="photo"
+        data-nimg="1"
+        decoding="async"
+        height="300"
+        loading="lazy"
+        src="/_next/image?url=%2Fperfil.jpeg&w=640&q=75"
+        srcset="/_next/image?url=%2Fperfil.jpeg&w=384&q=75 1x, /_next/image?url=%2Fperfil.jpeg&w=640&q=75 2x"
+        style="color: transparent;"
+        width="300"
+      />
+      <div
+        class="description"
+      >
+        <p>
+          Full Stack Developer con experiencia en diseño, desarrollo y mantenimiento de aplicaciones web. Dominio de lenguajes y frameworks en el entorno web, principalmente 
+          <strong>
+             HTML/CSS, JavaScript, React, Node.js, Express, MongoDB, Git, GitHub,
+          </strong>
+           entre otros.
+        </p>
+        <p>
+          Capaz de gestionarme eficazmente siendo un aprendiz rápido, proactivo y comprometido durante proyectos freelance, así como en colaborar con un equipo de trabajo para lograr los objetivos.
+        </p>
+      </div>
+    </section>
+  </main>
+</DocumentFragment>
+`;

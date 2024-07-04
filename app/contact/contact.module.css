@@ -1,0 +1,36 @@
+
+.contact {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    max-width: 1200px;
+    height: 100vh;
+    padding: 2rem;
+    margin: 0 auto;
+}
+
+.title {
+    margin-bottom: 2rem;
+    font-size: 5rem;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .contact {
+        padding: 1rem;
+    }
+
+    .title {
+        font-size: 4rem;
+    }
+}
+
+
+
+
+@media (max-width: 480px) {
+    .title {
+        font-size: 3rem;
+    }
+}
